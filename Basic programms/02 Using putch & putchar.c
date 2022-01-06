@@ -7,7 +7,7 @@ int main()
 
     putch('\n');
     putch('\n');
-    putch('ABC');
+    putch('XYZ');
     putch('\n');
 
     getche();
