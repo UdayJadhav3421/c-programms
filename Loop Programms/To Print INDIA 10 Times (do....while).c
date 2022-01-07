@@ -9,7 +9,7 @@ int main()
     {
         printf("\n\t\t INDIA");
         cnt++;
-    } while(cnt <= 10);
+    } while(cnt <= 12);
 
     getch();
     return 0;
