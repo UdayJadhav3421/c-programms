@@ -8,6 +8,6 @@ int main()
 
     printf("\n\n ASCII Value of %c is = %d",ch,ch);
 
-  
+    getch();
     return 0;
 }
