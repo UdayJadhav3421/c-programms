@@ -22,6 +22,9 @@ int main()
 	scanf("%f", &Per);
 
 	fflush(stdin);
+	
+	
+	
 
 	printf("\n Enter Student Course Name=");
 	gets(Course);
@@ -35,5 +38,6 @@ int main()
 	printf("\n Course Name =%s", Course);
 
 	printf("\n\n================********===============");
+	
 	return 0;
 }
