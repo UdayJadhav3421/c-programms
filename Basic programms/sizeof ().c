@@ -18,5 +18,6 @@ int main()
 
 	printf("\n \t size 6= %d", sizeof(char));
 
+	getch();
 	return 0;
 }
