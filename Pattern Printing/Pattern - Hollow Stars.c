@@ -1,10 +1,12 @@
 #include <stdio.h>
 #include <conio.h>
+
 int main()
 {
 	int i, j, R, C;
 
 	printf("\n\n Pattren Printing is Stars=>\n\n");
+	
 	for (R = 7, i = 1; i <= R; i++)
 	{
 		for (C = 5, j = 1; j <= C; j++)
@@ -20,5 +22,7 @@ int main()
 		}
 		printf("\n");
 	}
+	
+	getch();
 	return 0;
 }
