@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+
 int main()
 {
 	char SP = '\0', EP = '\0';
@@ -28,6 +29,7 @@ int main()
 			SP++;
 		}
 	}
+	
 	getch();
 	return 0;
 }
